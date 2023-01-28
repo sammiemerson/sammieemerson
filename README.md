@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samantha-emerson-se/
-">
+  ">
   <img height="50" src="https://user-images.githubusercontent.com/114638926/214967419-1fffadc2-e21b-4f31-b2cb-4ecbf2842167.png"/>
-</a>
-  </p>
+  </a>
+</p>
